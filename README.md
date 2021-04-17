@@ -208,10 +208,18 @@ Questa porta svolge la doppia funzione di **Porta ISP** e **Porta I2C** mediante
 
 ------------
 
-### Luci Cucina
-<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/luci_cucina.jpg" width="1280">
+### Luci Lounge
+<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/luci_lounge.jpg" width="1280">
 
-La cucina e' illuminata mediante *3 led* in parallelo.
+La zona Lounge e' illuminata con 5 LED indipendneti posizionati in concomitanza dei vari tavoli.
+
+------------
+
+
+### Bar
+<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/luce_bar.jpg" width="1280">
+
+Nella zona destinata al servizio Bar, un singolo LED assicura un'illuminazione della zona senza intaccare il resto.
 
 ------------
 
@@ -226,14 +234,7 @@ Il corridoio parallelo alla cucina e' illuminato in maniera indipendente.
 <img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/luci_vestibolo1.jpg" width="1280">
 <img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/luci_vestibolo2.jpg" width="1280">
 
-I vestiboli, su entrambi gli intercomunicanti, sono illuminati mediante led.
-
-------------
-
-### Luci Tavoli
-<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/luci_tavoli.jpg" width="1280">
-
-Le luci sui tavoli sono raggruppate a blocchi di 3 led: ogni gruppo e' indipendente.
+I vestiboli, su entrambi gli intercomunicanti, sono illuminati mediante led indipendenti.
 
 ------------
 
