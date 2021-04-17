@@ -55,7 +55,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
   - [Luci Bar](#Bar)
   - [Luci Sala Conferenze](#Luci-Sala-Conferenze)
   - [Luci Sala Regia](#Luci-Sala-Regia)
-  - [Luci Ritirata](#luci-ritirata)
+  - [Ritirata](#ritirata)
   - [Luci Vestiboli](#Luci-Vestiboli)
   - [Luci di Coda Rosse](#luci-di-coda-rosse)
   - [Decoder PluX](#interfaccia-plux)
@@ -208,10 +208,17 @@ Questa porta svolge la doppia funzione di **Porta ISP** e **Porta I2C** mediante
 
 ------------
 
-### Luci Cucina
-<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/luci_cucina.jpg" width="1280">
+### Luci Lounge
+<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/luci_lounge.jpg" width="1280">
 
-La cucina e' illuminata mediante *3 led* in parallelo.
+La zona Lounge e' illuminata con 5 LED indipendneti posizionati in concomitanza dei vari tavoli.
+
+------------
+
+### Bar
+<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/luce_bar.jpg" width="1280">
+
+Nella zona destinata al servizio Bar, un singolo LED assicura un'illuminazione della zona senza intaccare il resto.
 
 ------------
 
@@ -222,18 +229,25 @@ Il corridoio parallelo alla cucina e' illuminato in maniera indipendente.
 
 ------------
 
+### Sala Regia
+<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/luci_regia.jpg" width="1280">
+
+La Sala Regia, posizionata dietro alla sala riunioni e divisa da essa mediante tende, e' illuminata con due LED, sono comandabili separatamente.
+
+------------
+
+### Ritirata
+<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/ritirata.jpg" width="1280">
+
+L'unica ritirara presente sulla vettura e' illuminata mediante LED singolo comandabile a piacere.
+
+------------
+
 ### Luci Vestiboli
 <img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/luci_vestibolo1.jpg" width="1280">
 <img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/luci_vestibolo2.jpg" width="1280">
 
-I vestiboli, su entrambi gli intercomunicanti, sono illuminati mediante led.
-
-------------
-
-### Luci Tavoli
-<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/luci_tavoli.jpg" width="1280">
-
-Le luci sui tavoli sono raggruppate a blocchi di 3 led: ogni gruppo e' indipendente.
+I vestiboli, su entrambi gli intercomunicanti, sono illuminati mediante led indipendenti.
 
 ------------
 
