@@ -1,10 +1,12 @@
-# Scheda di Illuminazione Digitale per vetture [ACME](http://acmetreni.it/index.php/it/) [Gran Confort Ristorante WR83](https://scalaenne.wordpress.com/2011/04/16/gran-comfort-e-grand-confort/) in Scala H0
-Questa scheda e' pensata per illuminare in maniera digitale le vetture ACME Gran Confort *Ristorante WR83*, in scala H0.</br>
+# Scheda di Illuminazione Digitale per vetture [ACME](http://acmetreni.it/index.php/it/) [Gran Confort Press&Conference](https://www.ferrovie.info/index.php/it/34-correva-l-anno/2651-giugno-1988-le-officine-di-cittadella-consegnano-la-carrozza-press-conference) in Scala H0
+Questa scheda e' pensata per illuminare in maniera digitale le vetture ACME Gran Confort *Press&Conference* 50411, in scala H0.</br>
 E' stata progettata espressamente sugli ingombri stutturali della carrozza per massimizzare il realismo luminoso garantendo **tutte** le zone illuminate in maniera indipendente: 
-- Corridoio di fianco alla Cucina
-- *Cucina*
-- *Tavoli*
 - Vestiboli
+- *Lounge*
+- *Bar*
+- *Sala Conferenze*
+- Zona Regia
+- Ritirata
 - Predisposizione per le *Luci di Coda Rosse* 
 
 **Ultima Revisione HardWare: 1.12**
@@ -49,10 +51,12 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
   - [Lettura Segnale Digitale](#lettura-segnale-digitale)
   - [Sistema ACK](#sistema-ack)
   - [Porta di Programmazione ISP](#porta-di-programmazione-isp)
-  - [Luci Cucina](#Luci-Cucina)
-  - [Luci Corridoio](#Luci-Corridoio)
+  - [Luci Lounge](#Luci-Lounge)
+  - [Luci Bar](#Bar)
+  - [Luci Sala Conferenze](#Luci-Sala-Conferenze)
+  - [Luci Sala Regia](#Luci-Sala-Regia)
+  - [Luci Ritirata](#luci-ritirata)
   - [Luci Vestiboli](#Luci-Vestiboli)
-  - [Luci Tavoli](#Luci-Tavoli)
   - [Luci di Coda Rosse](#luci-di-coda-rosse)
   - [Decoder PluX](#interfaccia-plux)
   - [Porta SUSI](#porta-susi)
@@ -103,7 +107,7 @@ Di seguito sono riportate le caratteristiche della scheda, poi spiegate in detta
 - [Optoisolator to read Digital signal](#lettura-segnale-digitale)
 - [ACK System](#sistema-ack)
 - [JST SH6 connector](#porta-di-programmazione-isp) to program AtMega with ISP system and to provide I2C Bus from external target
-- All Sections illuminated independently (Vestibules, Lounge, Bar, Meetin Room, Service Room, Bathoroom)
+- All Sections illuminated independently ([Vestibules](#Luci-Vestiboli), [Lounge](#Luci-Lounge), [Bar](#Bar), [Meeting Room](#Luci-Sala-Conferenze), [Service Room](#Luci-Sala-Regia), [Bathoroom](#luci-ritirata))
 - Pads for [tail red lights](#luci-di-coda-rosse)
 - [PluX Interface](#interfaccia-plux) (with Sound and SUSI BUS)
 - [SUSI Port](#porta-susi) for External Module
