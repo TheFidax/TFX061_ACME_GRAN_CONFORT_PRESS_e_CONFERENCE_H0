@@ -261,7 +261,8 @@ Il connettore PluX fornisce il collegamento alle rotaie (per portare i comandi a
 ------------
 
 ### Porta SUSI
-<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/susi.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/susi_1.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/susi_2.jpg" width="1280">
 
 Per garantire la massima personalizzazione, e' presente anche **una porta SUSI** per eventuali moduli SUSI esterni.
 
