@@ -7,27 +7,27 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 - Vestiboli
 - Predisposizione per le *Luci di Coda Rosse* 
 
-**Ultima Revisione HardWare: 2.01**
+**Ultima Revisione HardWare: 1.12**
 
 **Ultima Revisione SoftWare: 008**
 
 **Alcune Immagini Dimostrative:**
 
-- Carrozza in condizioni luminose *Diurne* lato Cucina
+- Carrozza in condizioni luminose *Diurne* lato Ritirata
 
-<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/diurna_cucina.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/diurna_ritirata.jpg" width="1280">
 
-- Carrozza in condizione luminose *Diurne* lato Corridoio
+- Carrozza in condizione luminose *Diurne* lato retro Bar
 
-<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/diurna_corridoio.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/diurna_retrobar.jpg" width="1280">
 
-- Carrozza in condizioni luminose *Notturne* lato Cucina
+- Carrozza in condizioni luminose *Notturne* lato Ritirata
 
-<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/notturna_cucina.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/notturna_ritirata.jpg" width="1280">
 
-- Carrozza in condizione luminose *Notturne* lato Corridoio
+- Carrozza in condizione luminose *Notturne* lato retro Bar
 
-<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/notturna_corridoio.jpg" width="1280"></br>
+<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/notturna_retrobar.jpg" width="1280"></br>
 
 - Scheda nella sua posizione appoggiata sopra gli interni:
 
@@ -69,7 +69,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 ------------
 
 ## Manuale Scheda
-Il manuale della scheda è [disponibile qui](https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/tree/main/TFX060_MANUALE.odt).
+Il manuale della scheda è [disponibile qui](https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/tree/main/TFX061_MANUALE.odt).
 
 ------------
 
@@ -77,7 +77,7 @@ Il manuale della scheda è [disponibile qui](https://github.com/TheFidax/TFX061_
 Il Firmware dedicato e' presente sotto la cartella [FirmWare](https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/tree/main/FirmWare), per poterlo caricare è consigliata la seguente [Shield](https://github.com/TheFidax/ProgrammerUpdaterShield).</br>
 Le cifre finali del file .HEX identificano la versione del FirmWare.
 
-*NOTA*: Nella cartella e' presente anche un file chiamto *TFX060_TEST_AUX.hex* ; questo firmware attiva, a scheda alimentata, tutte le AUX.</br>
+*NOTA*: Nella cartella e' presente anche un file chiamto *TFX061_TEST_AUX.hex* ; questo firmware attiva, a scheda alimentata, tutte le AUX.</br>
 **Serve Esclusivamente in fase di assemblaggio** per verificare che tutte le saldature siano state effettuate correttamente. **NON E' IL FIRMWARE PER IL FUNZIONAMENTO NORMALE.**
 
 **NOTA: Per conoscere la versione del Firmware presente a bordo e' sufficiente *Leggere la CV 7*.**
@@ -85,7 +85,7 @@ Le cifre finali del file .HEX identificano la versione del FirmWare.
 ------------
 
 ## HardWare
-Il progetto di questa scheda e' disponibile qui: https://workspace.circuitmaker.com/Projects/Details/luca-fidanza/ACME-GC-RISTORANTE-1983-H0 .</br>
+Il progetto di questa scheda e' disponibile qui: https://workspace.circuitmaker.com/Projects/Details/luca-fidanza/ACME-GC-Press-e-Conference .</br>
 **Viene rilasciato con la seguente Licenza**: https://creativecommons.org/licenses/by-nc-nd/4.0/ .</br>
 I **File Gerber**, il **BOM** e il file **Pick and Place** sono nel file **.Zip** disponibile sotto la cartella [HardWare](https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/tree/main/HardWare).</br> 
 
@@ -103,7 +103,7 @@ Di seguito sono riportate le caratteristiche della scheda, poi spiegate in detta
 - [Optoisolator to read Digital signal](#lettura-segnale-digitale)
 - [ACK System](#sistema-ack)
 - [JST SH6 connector](#porta-di-programmazione-isp) to program AtMega with ISP system and to provide I2C Bus from external target
-- All Sections illuminated independently ([Corridor](#Luci-Corridoio), [Vestibles](#Luci-Vestiboli), [Kitchen](#Luci-Cucina) and [Tables](#Luci-Tavoli))
+- All Sections illuminated independently (Vestibules, Lounge, Bar, Meetin Room, Service Room, Bathoroom)
 - Pads for [tail red lights](#luci-di-coda-rosse)
 - [PluX Interface](#interfaccia-plux) (with Sound and SUSI BUS)
 - [SUSI Port](#porta-susi) for External Module
