@@ -53,8 +53,8 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
   - [Porta di Programmazione ISP](#porta-di-programmazione-isp)
   - [Luci Lounge](#Luci-Lounge)
   - [Luci Bar](#Bar)
-  - [Luci Sala Conferenze](#Luci-Sala-Conferenze)
-  - [Luci Sala Regia](#Luci-Sala-Regia)
+  - [Luci Sala Conferenze](#sala-conferenze)
+  - [Luci Sala Regia](#sala-Regia)
   - [Ritirata](#ritirata)
   - [Luci Vestiboli](#Luci-Vestiboli)
   - [Luci di Coda Rosse](#luci-di-coda-rosse)
@@ -107,7 +107,7 @@ Di seguito sono riportate le caratteristiche della scheda, poi spiegate in detta
 - [Optoisolator to read Digital signal](#lettura-segnale-digitale)
 - [ACK System](#sistema-ack)
 - [JST SH6 connector](#porta-di-programmazione-isp) to program AtMega with ISP system and to provide I2C Bus from external target
-- All Sections illuminated independently ([Vestibules](#Luci-Vestiboli), [Lounge](#Luci-Lounge), [Bar](#Bar), [Meeting Room](#Luci-Sala-Conferenze), [Service Room](#Luci-Sala-Regia), [Bathoroom](#luci-ritirata))
+- All Sections illuminated independently ([Vestibules](#Luci-Vestiboli), [Lounge](#Luci-Lounge), [Bar](#Bar), [Meeting Room](#Sala-Conferenze), [Service Room](#Sala-Regia), [Bathoroom](#luci-ritirata))
 - Pads for [tail red lights](#luci-di-coda-rosse)
 - [PluX Interface](#interfaccia-plux) (with Sound and SUSI BUS)
 - [SUSI Port](#porta-susi) for External Module
@@ -222,10 +222,10 @@ Nella zona destinata al servizio Bar, un singolo LED assicura un'illuminazione d
 
 ------------
 
-### Luci Corridoio
-<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/luci_corridoio.jpg" width="1280">
+### Sala Conferenze
+<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/luci_sala_conferenze.jpg" width="1280">
 
-Il corridoio parallelo alla cucina e' illuminato in maniera indipendente.
+La *Sala Conferenze* e' illuminata mediante 5 LED che sovrastano il Maxi tavolo, per renderla luminosa e ben distinguibile dall'esterno.
 
 ------------
 
