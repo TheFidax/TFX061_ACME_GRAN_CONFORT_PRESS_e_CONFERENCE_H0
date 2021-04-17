@@ -55,7 +55,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
   - [Luci Bar](#Bar)
   - [Luci Sala Conferenze](#Luci-Sala-Conferenze)
   - [Luci Sala Regia](#Luci-Sala-Regia)
-  - [Luci Ritirata](#luci-ritirata)
+  - [Ritirata](#ritirata)
   - [Luci Vestiboli](#Luci-Vestiboli)
   - [Luci di Coda Rosse](#luci-di-coda-rosse)
   - [Decoder PluX](#interfaccia-plux)
@@ -215,7 +215,6 @@ La zona Lounge e' illuminata con 5 LED indipendneti posizionati in concomitanza 
 
 ------------
 
-
 ### Bar
 <img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/luce_bar.jpg" width="1280">
 
@@ -227,6 +226,20 @@ Nella zona destinata al servizio Bar, un singolo LED assicura un'illuminazione d
 <img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/luci_corridoio.jpg" width="1280">
 
 Il corridoio parallelo alla cucina e' illuminato in maniera indipendente.
+
+------------
+
+### Sala Regia
+<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/luci_regia.jpg" width="1280">
+
+La Sala Regia, posizionata dietro alla sala riunioni e divisa da essa mediante tende, e' illuminata con due LED, sono comandabili separatamente.
+
+------------
+
+### Ritirata
+<img src="https://github.com/TheFidax/TFX061_ACME_GRAN_CONFORT_PRESS_e_CONFERENCE_H0/blob/main/Images/ritirata.jpg" width="1280">
+
+L'unica ritirara presente sulla vettura e' illuminata mediante LED singolo comandabile a piacere.
 
 ------------
 
