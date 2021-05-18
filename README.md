@@ -9,7 +9,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 - Ritirata
 - Predisposizione per le *Luci di Coda Rosse* 
 
-**Ultima Revisione HardWare: 1.12**
+**Ultima Revisione HardWare: 1.13**
 
 **Ultima Revisione SoftWare: 008**
 
